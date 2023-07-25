@@ -1,5 +1,16 @@
-.genneral {
-  font-family: 'Edu SA Beginner', cursive;
-  color: green;
-  font-size: 50px;
+.logo-text {
+  color: #4d5ae5;
+  text-decoration: none;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  margin-left: 156px;
+  margin-top: 25.5px;
+}
+
+.logo {
+  color: #2e2f42;
+  text-decoration: none;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  text-transform: uppercase;
 }
