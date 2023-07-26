@@ -1,10 +1,17 @@
+body {
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-style: normal;
+}
+
 .logo-text {
   color: #4d5ae5;
   text-decoration: none;
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
-  margin-left: 156px;
-  margin-top: 25.5px;
+  line-height: 1.6;
+  letter-spacing: 0.54px;
 }
 
 .logo {
@@ -13,4 +20,49 @@
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
   text-transform: uppercase;
+  line-height: 1.6;
+  letter-spacing: 0.54px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.bar-studio,
+.bar-portfolio,
+.bar-contacts {
+  color: #2e2f42;
+  text-decoration: none;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+
+.link-email,
+.link-tel {
+  color: #434455;
+  text-decoration: none;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+
+.main-screen {
+  background-color: #2e2f42;
+}
+
+.genneral {
+  color: #ffffff;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 1.12px;
+}
+
+.genneral-button {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  line-height: 1.5;
+  letter-spacing: 0.64px;
 }
