@@ -93,6 +93,10 @@ ul {
   border: none;
 }
 
+.list {
+  background-color: #ffffff;
+}
+
 .list .title-item {
   color: #2e2f42;
   font-family: 'Roboto', sans-serif;
