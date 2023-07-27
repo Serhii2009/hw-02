@@ -11,6 +11,23 @@ body {
   text-transform: none;
 }
 
+.link2 {
+  color: #2e2f42;
+  text-decoration: none;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+
+.link2-hover,
+.link2-focus {
+  color: #404bbf;
+}
+
+.link-send {
+  font-style: normal;
+}
+
 .link {
   color: #4d5ae5;
   text-decoration: none;
@@ -44,8 +61,11 @@ ul {
   letter-spacing: 0.32px;
 }
 
-.link-email,
-.link-tel {
+.list {
+  list-style: none;
+}
+
+.link3 {
   color: #434455;
   text-decoration: none;
   font-weight: 400;
