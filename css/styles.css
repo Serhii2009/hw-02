@@ -33,7 +33,6 @@ li > .link {
 
 .link-send {
   font-style: normal;
-  color: #2e2f42;
 }
 
 ul > .link:hover,
@@ -75,7 +74,7 @@ ul {
 }
 
 .link {
-  color: #434455;
+  color: #2e2f42;
   text-decoration: none;
   font-weight: 400;
   font-style: normal;
