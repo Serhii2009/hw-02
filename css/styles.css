@@ -23,7 +23,7 @@ nav > .link {
 }
 
 li > .link {
-  color: #2e2f42;
+  color: #434455;
   text-decoration: none;
   font-style: normal;
   font-weight: 500;
@@ -32,7 +32,7 @@ li > .link {
 }
 
 ul > .link {
-  color: #434455;
+  color: #2e2f42;
   font-style: normal;
 }
 
