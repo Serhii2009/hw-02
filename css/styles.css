@@ -1,3 +1,14 @@
+:root {
+  --main-light-color: ;
+  --main-font-color: ;
+  --secondory-font-color: ;
+  --accent-color: ;
+  --secondary-accent-color: ;
+  --logo-color: ;
+  --border-bg-color: ;
+  --section-team-bg-color: ;
+}
+
 body {
   color: #434455;
   background-color: #ffffff;
