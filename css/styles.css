@@ -18,7 +18,7 @@ body {
   text-transform: none;
 }
 
-.logo-text {
+.link {
   color: #4d5ae5;
   text-decoration: none;
   font-family: 'Raleway', sans-serif;
@@ -186,7 +186,7 @@ ul {
   letter-spacing: 0.32px;
 }
 
-.younger-menu1 > li > button {
+.list > li > button {
   color: #4d5ae5;
   background-color: #f4f4fd;
   border: none;
