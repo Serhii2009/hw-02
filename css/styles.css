@@ -76,11 +76,11 @@ ul {
 
 .list {
   list-style: none;
-  color: #2e2f42;
+  color: #434455;
 }
 
 .link {
-  color: #434455;
+  color: #2e2f42;
   text-decoration: none;
   font-weight: 400;
   font-style: normal;
