@@ -20,6 +20,7 @@ nav > .link {
   font-weight: 800;
   line-height: 1.17;
   letter-spacing: 0.54px;
+  font-style: normal;
 }
 
 li > .link {
@@ -32,7 +33,6 @@ li > .link {
 }
 
 ul > .link-send {
-  color: #434455;
   font-style: normal;
 }
 
@@ -74,7 +74,7 @@ ul {
   list-style: none;
 }
 
-.link3 {
+.link {
   color: #434455;
   text-decoration: none;
   font-weight: 400;
