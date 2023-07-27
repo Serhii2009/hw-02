@@ -74,6 +74,18 @@ ul {
 }
 
 .genneral-button {
+  font-weight: 500;
+  background-color: #4d5ae5;
+  color: #ffffff;
+  line-height: 1.5;
+  letter-spacing: 0.64px;
+  border: none;
+  cursor: pointer;
+}
+
+.genneral-button:hover,
+.genneral-button:focus {
+  font-weight: 500;
   background-color: #4d5ae5;
   color: #ffffff;
   line-height: 1.5;
