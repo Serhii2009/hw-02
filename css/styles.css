@@ -4,7 +4,7 @@
   --secondory-font-color: ;
   --accent-color: ;
   --secondary-accent-color: ;
-  --logo-color: ;
+  --logo-color: #4d5ae5;
   --border-bg-color: ;
   --section-team-bg-color: ;
 }
@@ -155,22 +155,24 @@ ul {
 }
 
 .logo-text {
-  color: #4d5ae5;
+  color: var(--logo-color);
   text-decoration: none;
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
-  line-height: 1.6;
+  line-height: 1.17;
   letter-spacing: 0.54px;
+  font-weight: 800;
 }
 
-.logo-2 {
+.logo-text2 {
   color: #f4f4fd;
   text-decoration: none;
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
   text-transform: uppercase;
-  line-height: 1.6;
+  line-height: 1.17;
   letter-spacing: 0.54px;
+  font-weight: 800;
 }
 
 .info {
