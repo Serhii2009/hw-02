@@ -20,7 +20,6 @@ nav > .link {
   font-weight: 800;
   line-height: 1.17;
   letter-spacing: 0.54px;
-  font-style: normal;
 }
 
 li > .link {
@@ -58,6 +57,7 @@ li > .link:focus {
 
 ul {
   list-style-type: none;
+  font-style: normal;
 }
 
 .bar-studio,
@@ -71,6 +71,7 @@ ul {
 }
 
 .list {
+  color: #434455;
   list-style: none;
 }
 
