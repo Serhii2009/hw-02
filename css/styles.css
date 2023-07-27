@@ -113,7 +113,7 @@ ul {
   letter-spacing: 0.32px;
 }
 
-h2 {
+.mini-title {
   color: #2e2f42;
   text-align: center;
   font-family: Roboto;
@@ -131,15 +131,19 @@ h2 {
 
 .our-people {
   background-color: #ffffff;
-}
-
-.our-people h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
 }
 
-.our-people p {
+.hwo-they {
   text-align: center;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .foot {
