@@ -36,6 +36,15 @@ ul > .link {
   font-style: normal;
 }
 
+nav .list .link {
+  color: #2e2f42;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+
 .link-send {
   font-style: normal;
 }
@@ -64,23 +73,13 @@ ul {
   list-style-type: none;
 }
 
-.bar-studio,
-.bar-portfolio,
-.bar-contacts {
-  color: #2e2f42;
-  text-decoration: none;
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.32px;
-}
-
 .list {
   list-style: none;
-  color: #434455;
+  color: #4f5543;
 }
 
 .link {
-  color: #434455;
+  color: #4f5543;
   text-decoration: none;
   font-weight: 400;
   font-style: normal;
