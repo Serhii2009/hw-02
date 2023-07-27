@@ -29,12 +29,22 @@ li > .link {
   letter-spacing: 0.32px;
 }
 
-.link-send {
+ul > .link-send {
   font-style: normal;
 }
 
-li > .link-hover,
-li > .link-focus {
+ul > .link:hover,
+ul > .link:focus {
+  color: #404bbf;
+  text-decoration: none;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+  letter-spacing: 0.54px;
+}
+
+li > .link:hover,
+li > .link:focus {
   color: #404bbf;
   text-decoration: none;
   font-family: 'Raleway', sans-serif;
