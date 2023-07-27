@@ -31,7 +31,12 @@ li > .link {
   letter-spacing: 0.32px;
 }
 
-ul > .link-send {
+ul > .link {
+  color: #434455;
+  font-style: normal;
+}
+
+.link-send {
   font-style: normal;
 }
 
@@ -57,7 +62,6 @@ li > .link:focus {
 
 ul {
   list-style-type: none;
-  font-style: normal;
 }
 
 .bar-studio,
@@ -71,7 +75,6 @@ ul {
 }
 
 .list {
-  color: #434455;
   list-style: none;
 }
 
