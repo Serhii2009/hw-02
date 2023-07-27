@@ -23,17 +23,12 @@ nav > .link {
 }
 
 li > .link {
-  color: #2e2f42;
+  color: #434455;
   text-decoration: none;
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.32px;
-}
-
-ul > .link {
-  color: #434455;
-  font-style: normal;
 }
 
 .link-send {
