@@ -17,19 +17,22 @@ nav > .link {
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
   text-transform: uppercase;
-  line-height: 1.6;
+  font-weight: 800;
+  line-height: 1.17;
   letter-spacing: 0.54px;
 }
 
 li > .link {
   color: #2e2f42;
   text-decoration: none;
+  font-style: normal;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
 
 ul > .link-send {
+  color: #434455;
   font-style: normal;
 }
 
