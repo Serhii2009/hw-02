@@ -154,7 +154,7 @@ ul {
   background-color: #2e2f42;
 }
 
-.logo-text {
+.link .logo-text {
   color: var(--logo-color);
   text-decoration: none;
   font-family: 'Raleway', sans-serif;
@@ -164,7 +164,7 @@ ul {
   font-weight: 800;
 }
 
-.logo-text2 {
+.link .logo-text2 {
   color: #f4f4fd;
   text-decoration: none;
   font-family: 'Raleway', sans-serif;
