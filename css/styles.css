@@ -213,7 +213,7 @@ footer > .link {
   letter-spacing: 0.32px;
 }
 
-.list > li > button {
+.list > li > .menu {
   color: #4d5ae5;
   background-color: #f4f4fd;
   border: none;
@@ -226,8 +226,8 @@ footer > .link {
   letter-spacing: 0.64px;
 }
 
-.list > li > button:hover,
-.list > li > button:focus {
+.list > li > .menu:hover,
+.list > li > .menu:focus {
   color: #ffffff;
   background-color: #404bbf;
   cursor: pointer;
