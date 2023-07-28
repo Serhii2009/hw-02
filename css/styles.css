@@ -251,6 +251,14 @@ footer > .link {
   letter-spacing: 0.32px;
 }
 
+.list {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
 .our-company {
   font-family: 'Roboto', sans-serif;
   font-size: 20px;
