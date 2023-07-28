@@ -251,9 +251,8 @@ footer > .link {
   letter-spacing: 0.32px;
 }
 
-.list .link {
-  background-color: #ffffff;
-  color: #434455;
+.link img {
+  width: 360px;
 }
 
 .our-company {
@@ -262,7 +261,8 @@ footer > .link {
   font-style: normal;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .hwo-product {
@@ -271,5 +271,6 @@ footer > .link {
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
