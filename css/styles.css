@@ -250,3 +250,26 @@ footer > .link {
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
+
+.list .link {
+  background-color: #ffffff;
+  color: #434455;
+}
+
+.our-company {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.4px;
+}
+
+.hwo-product {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
