@@ -228,8 +228,8 @@ footer > .link {
 
 .list > li > button:hover,
 .list > li > button:focus {
-  color: #4d5ae5;
-  background-color: #f4f4fd;
+  color: #ffffff;
+  background-color: #404bbf;
   cursor: pointer;
 }
 
