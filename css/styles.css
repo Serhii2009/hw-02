@@ -76,6 +76,10 @@ ul {
 .list {
   list-style: none;
   color: #4f5543;
+}
+
+.link {
+  color: #4f5543;
   text-decoration: none;
   font-weight: 400;
   font-style: normal;
@@ -111,17 +115,17 @@ ul {
   background-color: #404bbf;
   color: #ffffff;
   line-height: 1.5;
-  letter-spacing: 0.64px;
+  letter-spacing: 0.04em;
   border: none;
 }
 
 .list .mini-list {
+  background-color: #ffffff;
   color: #434455;
 }
 
 .list .title-item {
   color: #2e2f42;
-  font-family: 'Roboto', sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -131,7 +135,6 @@ ul {
 
 .list .title-article {
   color: #434455;
-  font-family: 'Roboto', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -210,7 +213,6 @@ footer > .link {
   color: var(--logo-color);
   background-color: #f4f4fd;
   border: none;
-  cursor: pointer;
   text-align: center;
   font-size: 16px;
   font-style: normal;
@@ -223,6 +225,7 @@ footer > .link {
 .list > li > .menu:focus {
   color: #ffffff;
   background-color: #404bbf;
+  cursor: pointer;
 }
 
 .product > li > h3 {
