@@ -63,7 +63,6 @@ li > .link:focus {
   color: #2e2f42;
   text-decoration: none;
   font-family: 'Raleway', sans-serif;
-  font-size: 18px;
   text-transform: uppercase;
   line-height: 1.6;
   letter-spacing: 0.03em;
@@ -219,13 +218,13 @@ footer > .link {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  cursor: pointer;
 }
 
 .list > li > .menu:hover,
 .list > li > .menu:focus {
   color: #ffffff;
   background-color: #404bbf;
-  cursor: pointer;
 }
 
 .product > li > h3 {
