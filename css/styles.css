@@ -60,11 +60,14 @@ li > .link:focus {
 }
 
 .logo {
-  color: #2e2f42;
   font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
   line-height: 1.6;
   letter-spacing: 0.03em;
+}
+
+span {
+  color: #2e2f42;
 }
 
 ul {
@@ -77,12 +80,7 @@ ul {
 }
 
 .link {
-  color: #4f5543;
   text-decoration: none;
-  font-weight: 400;
-  font-style: normal;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
 }
 
 .main-screen {
@@ -109,7 +107,6 @@ ul {
 
 .genneral-button:hover,
 .genneral-button:focus {
-  font-weight: 500;
   background-color: #404bbf;
 }
 
