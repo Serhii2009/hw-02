@@ -60,14 +60,8 @@ li > .link:focus {
 }
 
 .logo {
-  font-family: 'Raleway', sans-serif;
-  text-transform: uppercase;
-  line-height: 1.6;
-  letter-spacing: 0.03em;
-}
-
-span {
   color: #2e2f42;
+  line-height: 1.6;
 }
 
 ul {
